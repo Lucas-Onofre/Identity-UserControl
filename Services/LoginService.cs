@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using FluentResults;
 using Microsoft.AspNetCore.Identity;
-using UsuariosApi.Data.Request;
+using UsuariosApi.Data.Requests;
 using UsuariosApi.Models;
 
 namespace UsuariosApi.Services

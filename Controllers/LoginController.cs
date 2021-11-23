@@ -1,6 +1,6 @@
 using FluentResults;
 using Microsoft.AspNetCore.Mvc;
-using UsuariosApi.Data.Request;
+using UsuariosApi.Data.Requests;
 using UsuariosApi.Services;
 
 namespace UsuariosApi.Controllers
