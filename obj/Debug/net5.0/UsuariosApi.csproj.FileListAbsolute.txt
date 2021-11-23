@@ -60,3 +60,5 @@ C:\Users\lucas\Desktop\Alura\DOTNET\Filmes-API-Curso3\UsuariosApi\bin\Debug\net5
 C:\Users\lucas\Desktop\Alura\DOTNET\Filmes-API-Curso3\UsuariosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\lucas\Desktop\Alura\DOTNET\Filmes-API-Curso3\UsuariosApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\lucas\Desktop\Alura\DOTNET\Filmes-API-Curso3\UsuariosApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucas\Desktop\Alura\DOTNET\Filmes-API-Curso3\UsuariosApi\bin\Debug\net5.0\MailKit.dll
+C:\Users\lucas\Desktop\Alura\DOTNET\Filmes-API-Curso3\UsuariosApi\bin\Debug\net5.0\MimeKit.dll
